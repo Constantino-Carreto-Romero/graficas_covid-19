@@ -4,14 +4,13 @@ Este código genera las gráficas de Casos Activos y de Defunciones por Covid-19
 
 ### Las gráficas que se generan son las siguientes:
 
-Casos Activos
-
+#### casos activos
 <img src="./img/casos_activos.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;"
      width="600" height="500" />
 
-Defunciones
+#### defunciones
  <img src="./img/defunciones2.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;"
